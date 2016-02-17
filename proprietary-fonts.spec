@@ -1,8 +1,6 @@
-%define debug_package %{nil}
-
 Name:		proprietary-fonts
 Version:	0.0
-Release:	1%{?dist}
+Release:	1.R
 Summary:	Some Proprietary fonts Collection
 
 License:	Proprietary
